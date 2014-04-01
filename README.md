@@ -1,4 +1,4 @@
-toolbox-redux
+Redux
 =============
 
-The toolbox WordPress theme brought back.
+The WordPress starter theme brought back.
