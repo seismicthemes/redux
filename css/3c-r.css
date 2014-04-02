@@ -1,0 +1,26 @@
+#page {
+	display: block;
+	margin: 20px auto;
+	max-width: 1180px;
+    padding: 0 20px;
+}
+#primary {
+	float: right;
+	margin-left: 20px;
+	margin-right: 10px;
+	max-width: 670px;
+	padding-bottom: 24px;
+	width: 100%;
+}
+#main #secondary.widget-area {
+	float: left;
+	overflow: hidden;
+	width: 220px;
+	padding: 20px 10px;
+}
+#main #tertiary.widget-area {
+	float: left;
+	overflow: hidden;
+	width: 220px;
+	padding: 20px 10px;
+}
